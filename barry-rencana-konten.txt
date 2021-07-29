@@ -3,6 +3,7 @@ RENCANA KONTEN BARRY
 - Javascript
   * ES6
   * Framework Javascript
+- Sturuktur Data Dasar
 - PHP Frameworks
 - Interview
 - Vlogs
