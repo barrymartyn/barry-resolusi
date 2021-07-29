@@ -3,7 +3,10 @@ RENCANA KONTEN BARRY
 - Javascript
   * ES6
   * Framework Javascript
+   ^ Angular
+   ^ React
 - Sturuktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
